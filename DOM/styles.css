@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+.purple{
+  color:purple;
+}
+
+.huge{
+  font-size: 10rem;
+  color:green;
+  font-weight: bold;
+}
